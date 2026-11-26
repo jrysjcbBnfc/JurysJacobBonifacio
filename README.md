@@ -5,7 +5,9 @@
 I am Jurys Jacob Bonifacio, with a knack for database administration and coding. I enjoy taking on challenging issues and coming up with sophisticated solutions. I enrolled in the Bachelor of Science Information Technology program, which marked the beginning of my tech career.
 
 **🎓 Education
-Bachelor of Science in Information Technology (BSIT) New Era University 2026 - Present
+Bachelor of Science in Information Technology (BSIT) 
+New Era University 
+2023 - Present
 
 **🏅 Certifications
 [NoSQL and DBaaS 101] https://courses.cognitiveclass.ai/certificates/83ccb0ea24e04767ac1b3932692d12e3
