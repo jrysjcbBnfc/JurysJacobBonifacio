@@ -18,7 +18,9 @@ New Era University
 **💻 Skill Sets**
 
 Programming: HTML, CSS, JavaScript, PHP, SQL
+
 Technologies & Tools: Git, GitHub, VS Code, JSON, Pycharm
+
 Development & Other Skills: Basic Frontend & Backend Development, Problem-solving, System Analysis, Interface Layouting
 
 **📫 You may reach me at:**
