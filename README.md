@@ -24,4 +24,5 @@ Development & Other Skills: Basic Frontend & Backend Development, Problem-solvin
 **📫 You may reach me at:**
 
 LinkedIn: https://www.linkedin.com/in/jurys-jacob-bonifacio-284345452/
+
 Email: bonifaciojurysjacob@gmail.com
