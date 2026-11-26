@@ -7,8 +7,10 @@ I am Jurys Jacob Bonifacio, with a knack for database administration and coding.
 
 **🎓 Education**
 
-Bachelor of Science in Information Technology (BSIT) 
+Bachelor of Science in Information Technology (BSIT)
+
 New Era University 
+
 2023 - Present
 
 **🏅 Certifications**
