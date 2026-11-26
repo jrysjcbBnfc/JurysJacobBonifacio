@@ -3,7 +3,11 @@
 
 **About Me**
 
-I am Jurys Jacob Bonifacio, with a knack for database administration and coding. I enjoy taking on challenging issues and coming up with sophisticated solutions. I enrolled in the Bachelor of Science Information Technology program, which marked the beginning of my tech career.
+I am Jurys Jacob Bonifacio, with a knack for database administration and coding. 
+
+I enjoy taking on challenging issues and coming up with sophisticated solutions. 
+
+I enrolled in the Bachelor of Science Information Technology program, which marked the beginning of my tech career.
 
 **🎓 Education**
 
